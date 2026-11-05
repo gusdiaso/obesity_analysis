@@ -1,3 +1,5 @@
+🇧🇷 Português | 🇺🇸 [English](README.en.md)
+
 # Estimativa de Níveis de Obesidade com Machine Learning
 
 Três trabalhos de aprendizado de máquina sobre o mesmo conjunto de dados de hábitos alimentares e condição física, desenvolvidos na disciplina **Tópicos Especiais em Matemática e Computação (TEMC)** da Engenharia de Computação da UERJ.
